@@ -1,0 +1,23 @@
+{
+  "name": "joke-teller-bot",
+  "version": "1.0.0",
+  "description": "joke teller bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchrissd/joke-teller-bot.git"
+  },
+  "author": "chris underwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchrissd/joke-teller-bot/issues"
+  },
+  "homepage": "https://github.com/uchrissd/joke-teller-bot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "slackbots": "^1.2.0"
+  }
+}
